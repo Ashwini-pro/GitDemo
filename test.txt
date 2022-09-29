@@ -1,2 +1,1 @@
-Automation Testing:
-	-Git Version Control System(VCS)
+Automation Testing Training
